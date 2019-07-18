@@ -1,0 +1,23 @@
+{
+  "name": "express-async-error-handling",
+  "version": "1.0.0",
+  "description": "Experiments handling async errors in express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poftadeh/express-async-error-handling.git"
+  },
+  "author": "Pouya Oftadeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poftadeh/express-async-error-handling/issues"
+  },
+  "homepage": "https://github.com/poftadeh/express-async-error-handling#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1"
+  }
+}
